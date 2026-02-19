@@ -5,3 +5,6 @@ Katedra technické a informační výchovy <br>
 Pedagogická fakulta, UPOL
 
 __Zde budou vaše vlastní údaje__
+Filip Kratochvíl
+NMgr. Učitelství informatiky (kombinované)
+pedagogické portfolio
